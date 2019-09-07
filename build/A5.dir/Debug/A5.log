@@ -1,0 +1,40 @@
+﻿  main.cpp
+c:\users\asher williams\documents\spring semester 2019\csce 441\pa5\a5\src\Light.h(12): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA5\A5\src\main.cpp(77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA5\A5\src\main.cpp(96): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA5\A5\src\main.cpp(126): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA5\A5\src\main.cpp(127): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA5\A5\src\main.cpp(107): warning C4101: 'P': unreferenced local variable
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA5\A5\src\main.cpp(147): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA5\A5\src\main.cpp(195): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA5\A5\src\main.cpp(202): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA5\A5\src\main.cpp(207): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA5\A5\src\main.cpp(208): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA5\A5\src\main.cpp(209): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA5\A5\src\main.cpp(210): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA5\A5\src\main.cpp(261): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA5\A5\src\main.cpp(272): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA5\A5\src\main.cpp(273): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA5\A5\src\main.cpp(274): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA5\A5\src\main.cpp(275): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA5\A5\src\main.cpp(336): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA5\A5\src\main.cpp(337): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA5\A5\src\main.cpp(338): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA5\A5\src\main.cpp(339): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA5\A5\src\main.cpp(373): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA5\A5\src\main.cpp(404): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA5\A5\src\main.cpp(409): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA5\A5\src\main.cpp(451): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA5\A5\src\main.cpp(476): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA5\A5\src\main.cpp(477): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA5\A5\src\main.cpp(478): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA5\A5\src\main.cpp(479): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA5\A5\src\main.cpp(484): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA5\A5\src\main.cpp(486): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA5\A5\src\main.cpp(487): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA5\A5\src\main.cpp(488): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA5\A5\src\main.cpp(490): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA5\A5\src\main.cpp(491): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA5\A5\src\main.cpp(538): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA5\A5\src\main.cpp(539): warning C4305: 'argument': truncation from 'double' to 'float'
+  A5.vcxproj -> C:\Users\Asher Williams\Documents\Spring Semester 2019\CSCE 441\PA5\A5\build\Debug\A5.exe

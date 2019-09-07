@@ -1,0 +1,9 @@
+C:/Users/Asher Williams/Documents/Spring Semester 2019/CSCE 441/PA5/A5/build/CMakeFiles/A5.dir
+C:/Users/Asher Williams/Documents/Spring Semester 2019/CSCE 441/PA5/A5/build/CMakeFiles/INSTALL.dir
+C:/Users/Asher Williams/Documents/Spring Semester 2019/CSCE 441/PA5/A5/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Asher Williams/Documents/Spring Semester 2019/CSCE 441/PA5/A5/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Asher Williams/Documents/Spring Semester 2019/CSCE 441/Software/glfw-3.2.1/debug/CMakeFiles/uninstall.dir
+C:/Users/Asher Williams/Documents/Spring Semester 2019/CSCE 441/Software/glfw-3.2.1/debug/CMakeFiles/INSTALL.dir
+C:/Users/Asher Williams/Documents/Spring Semester 2019/CSCE 441/Software/glfw-3.2.1/debug/CMakeFiles/ALL_BUILD.dir
+C:/Users/Asher Williams/Documents/Spring Semester 2019/CSCE 441/Software/glfw-3.2.1/debug/src/CMakeFiles/glfw.dir
+C:/Users/Asher Williams/Documents/Spring Semester 2019/CSCE 441/Software/glfw-3.2.1/debug/src/CMakeFiles/INSTALL.dir
